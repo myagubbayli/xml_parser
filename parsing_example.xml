@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<Products>
+    <Product>
+        <Product_code><![CDATA[MRE0554515]]></Product_code>
+        <Product_id>1</Product_id>
+        <Name><![CDATA[This my product name]]></Name>
+        <Category><![CDATA[Tshirt]]></Category>
+        <Category_id><![CDATA[3]]></Category_id>
+        <Price>135</Price>  
+        <barcode>5152561655</barcode>
+        <CurrencyType>USD</CurrencyType>
+        <Tax>8</Tax>
+        <Stock>27</Stock> 
+        <Brand><![CDATA[Brand_name_here]]></Brand>
+        <Image1>http://ksh.xmlsheet.com/image/data/tshirt-image-1.jpg</Image1>      
+        <Image2>http://ksh.xmlsheet.com/image/data/tshirt-image.jpg</Image2> 
+        <Image3>http://ksh.xmlsheet.com/image/data/tshirt-image.jpg</Image3> 
+        <Image4></Image4> 
+        <Image5></Image5> 
+        <Description><![CDATA[<P><EM>Tshirt details below:</EM></P>
+        <TABLE cellSpacing=15 cellPadding=40 width=2000 border=5>
+        <TBODY>
+        <TR height=20>
+        <TD height=20 width=1790>
+        <P><EM>100% Cotton</EM></P>
+        <P><EM>Wide Range Colors and Sizes</EM></P>
+        <P>&nbsp;</P></TD></TR></TBODY></TABLE>]]></Description>  
+        <variants>
+            <variant>
+                <spec name="Size">S</spec>
+                <spec name="Color">Brown</spec>
+                <variantId>2</variantId>
+                <productCode><![CDATA[151511518512]]></productCode>
+                <barcode><![CDATA[151511518512]]></barcode>
+                <quantity>7</quantity>
+                <price>0.00</price>
+                <stock_code><![CDATA[ERC28515151518]]></stock_code>
+                <picture></picture>
+            </variant><variant>
+                <spec name="Size">M</spec>
+                <spec name="Color">Green</spec>
+                <variantId>3</variantId>
+                <productCode><![CDATA[481515185115]]></productCode>
+                <barcode><![CDATA[481515185115]]></barcode>
+                <quantity>25</quantity>
+                <price>0.00</price>
+                <stock_code><![CDATA[ERC2851545151]]></stock_code>
+                <picture></picture>
+            </variant><variant>
+                <spec name="Size">XL</spec>
+                <spec name="Color">Red</spec>
+                <variantId>4</variantId>
+                <productCode><![CDATA[1515115484841]]></productCode>
+                <barcode><![CDATA[1515115484841]]></barcode>
+                <quantity>14</quantity>
+                <price>0.00</price>
+                <stock_code><![CDATA[ERC255151515]]></stock_code>
+                <picture></picture>
+            </variant>
+        </variants>
+    </Product>
+</Products>
